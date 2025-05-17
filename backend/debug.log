@@ -1,0 +1,247 @@
+INFO 2025-05-17 04:04:56,979 autoreload 82534 8724913920 Watching for file changes with StatReloader
+INFO 2025-05-17 04:05:08,405 basehttp 82534 6158823424 "GET /api/streams/ HTTP/1.1" 200 574
+INFO 2025-05-17 04:05:08,405 basehttp 82534 6175649792 "GET /api/streams/ HTTP/1.1" 200 574
+INFO 2025-05-17 04:05:14,542 basehttp 82534 6158823424 "POST /api/streams/ HTTP/1.1" 201 190
+WARNING 2025-05-17 04:05:17,308 log 82534 6192476160 Not Found: /ws/stream/29468518-a000-4745-8972-9f6284d25a75/
+INFO 2025-05-17 04:05:17,309 basehttp 82534 6192476160 - Broken pipe from ('127.0.0.1', 54020)
+WARNING 2025-05-17 04:05:17,320 log 82534 6209302528 Not Found: /ws/stream/29468518-a000-4745-8972-9f6284d25a75/
+WARNING 2025-05-17 04:05:17,320 basehttp 82534 6209302528 "GET /ws/stream/29468518-a000-4745-8972-9f6284d25a75/ HTTP/1.1" 404 2470
+INFO 2025-05-17 04:05:17,320 basehttp 82534 6209302528 - Broken pipe from ('127.0.0.1', 54022)
+INFO 2025-05-17 04:05:24,535 basehttp 82534 6158823424 "POST /api/streams/29468518-a000-4745-8972-9f6284d25a75/stop/ HTTP/1.1" 200 27
+INFO 2025-05-17 04:05:26,520 basehttp 82534 6158823424 "POST /api/streams/7b44b5e1-7584-4402-89de-c87fd4640728/stop/ HTTP/1.1" 200 27
+INFO 2025-05-17 04:05:27,539 basehttp 82534 6158823424 "POST /api/streams/99d0c81b-f6a6-4395-9cc1-648811e19b6e/stop/ HTTP/1.1" 200 27
+INFO 2025-05-17 04:05:28,748 basehttp 82534 6158823424 "POST /api/streams/00cf7ce5-19f5-434c-82fb-8581851bfda8/stop/ HTTP/1.1" 200 27
+INFO 2025-05-17 04:05:31,163 basehttp 82534 6158823424 "POST /api/streams/ HTTP/1.1" 201 190
+WARNING 2025-05-17 04:05:34,415 log 82534 6226128896 Not Found: /ws/stream/bc367cde-d1b0-47b3-bd07-cc6e15748695/
+INFO 2025-05-17 04:05:34,415 basehttp 82534 6226128896 - Broken pipe from ('127.0.0.1', 54098)
+WARNING 2025-05-17 04:05:34,430 log 82534 6242955264 Not Found: /ws/stream/bc367cde-d1b0-47b3-bd07-cc6e15748695/
+WARNING 2025-05-17 04:05:34,430 basehttp 82534 6242955264 "GET /ws/stream/bc367cde-d1b0-47b3-bd07-cc6e15748695/ HTTP/1.1" 404 2470
+INFO 2025-05-17 04:06:17,180 basehttp 82534 6175649792 "GET /api/streams/ HTTP/1.1" 200 960
+INFO 2025-05-17 04:06:17,180 basehttp 82534 6158823424 "GET /api/streams/ HTTP/1.1" 200 960
+INFO 2025-05-17 04:06:26,947 basehttp 82534 6158823424 "POST /api/streams/bc367cde-d1b0-47b3-bd07-cc6e15748695/stop/ HTTP/1.1" 200 27
+INFO 2025-05-17 04:06:29,488 basehttp 82534 6158823424 "POST /api/streams/ HTTP/1.1" 201 190
+WARNING 2025-05-17 04:06:31,654 log 82534 6192476160 Not Found: /ws/stream/a8f383fc-c052-48c2-8f63-5f3933ab309f/
+INFO 2025-05-17 04:06:31,654 basehttp 82534 6192476160 - Broken pipe from ('127.0.0.1', 54371)
+WARNING 2025-05-17 04:06:31,669 log 82534 6209302528 Not Found: /ws/stream/a8f383fc-c052-48c2-8f63-5f3933ab309f/
+WARNING 2025-05-17 04:06:31,669 basehttp 82534 6209302528 "GET /ws/stream/a8f383fc-c052-48c2-8f63-5f3933ab309f/ HTTP/1.1" 404 2470
+INFO 2025-05-17 04:06:31,669 basehttp 82534 6209302528 - Broken pipe from ('127.0.0.1', 54373)
+INFO 2025-05-17 04:07:06,632 basehttp 82534 6175649792 "GET /api/streams/ HTTP/1.1" 200 1152
+INFO 2025-05-17 04:07:06,632 basehttp 82534 6158823424 "GET /api/streams/ HTTP/1.1" 200 1152
+INFO 2025-05-17 04:07:12,332 basehttp 82534 6158823424 "POST /api/streams/ HTTP/1.1" 201 190
+WARNING 2025-05-17 04:07:13,848 log 82534 6226128896 Not Found: /ws/stream/c1c493a3-185a-4776-be35-d002c0e3c3c6/
+WARNING 2025-05-17 04:07:13,849 basehttp 82534 6226128896 "GET /ws/stream/c1c493a3-185a-4776-be35-d002c0e3c3c6/ HTTP/1.1" 404 2470
+INFO 2025-05-17 04:07:13,849 basehttp 82534 6226128896 - Broken pipe from ('127.0.0.1', 54598)
+WARNING 2025-05-17 04:07:13,861 log 82534 6242955264 Not Found: /ws/stream/c1c493a3-185a-4776-be35-d002c0e3c3c6/
+WARNING 2025-05-17 04:07:13,861 basehttp 82534 6242955264 "GET /ws/stream/c1c493a3-185a-4776-be35-d002c0e3c3c6/ HTTP/1.1" 404 2470
+WARNING 2025-05-17 04:14:46,256 log 84360 6194786304 Bad Request: /api/streams/
+INFO 2025-05-17 04:15:13,946 consumers 84360 8724913920 Attempting to connect to stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:13,951 consumers 84360 8724913920 Attempting to connect to stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:13,955 consumers 84360 8724913920 WebSocket connection accepted for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:13,956 consumers 84360 8724913920 WebSocket connection accepted for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:13,957 consumers 84360 8724913920 Starting FFmpeg process for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:13,963 consumers 84360 8724913920 FFmpeg process started for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+WARNING 2025-05-17 04:15:14,978 consumers 84360 8724913920 No frame data received for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:14,978 consumers 84360 8724913920 Stream process terminated for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:14,980 consumers 84360 8724913920 Starting FFmpeg process for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:14,984 consumers 84360 8724913920 FFmpeg process started for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+WARNING 2025-05-17 04:15:15,866 consumers 84360 8724913920 No frame data received for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:15,867 consumers 84360 8724913920 Stream process terminated for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:15,873 consumers 84360 8724913920 Disconnecting from stream 89552de0-0ddb-4630-9199-c241b55d2e1b with code: 1006
+INFO 2025-05-17 04:15:15,874 consumers 84360 8724913920 Disconnecting from stream 89552de0-0ddb-4630-9199-c241b55d2e1b with code: 1000
+INFO 2025-05-17 04:15:15,875 consumers 84360 8724913920 Stream process terminated for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+INFO 2025-05-17 04:15:15,875 consumers 84360 8724913920 Stream process terminated for stream: 89552de0-0ddb-4630-9199-c241b55d2e1b
+WARNING 2025-05-17 04:16:29,532 log 84360 6194786304 Bad Request: /api/streams/
+INFO 2025-05-17 04:16:51,364 consumers 84360 8724913920 Attempting to connect to stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:51,366 consumers 84360 8724913920 WebSocket connection accepted for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:51,367 consumers 84360 8724913920 Starting FFmpeg process for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:51,373 consumers 84360 8724913920 FFmpeg process started for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+WARNING 2025-05-17 04:16:52,114 consumers 84360 8724913920 No frame data received for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,115 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,121 consumers 84360 8724913920 Disconnecting from stream e86ac7d8-1615-4e79-baa9-722e8ea20252 with code: 1006
+INFO 2025-05-17 04:16:52,122 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,124 consumers 84360 8724913920 Attempting to connect to stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,127 consumers 84360 8724913920 WebSocket connection accepted for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,128 consumers 84360 8724913920 Starting FFmpeg process for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,132 consumers 84360 8724913920 FFmpeg process started for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+WARNING 2025-05-17 04:16:52,808 consumers 84360 8724913920 No frame data received for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,809 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:16:52,815 consumers 84360 8724913920 Disconnecting from stream e86ac7d8-1615-4e79-baa9-722e8ea20252 with code: 1000
+INFO 2025-05-17 04:16:52,816 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,046 consumers 84360 8724913920 Attempting to connect to stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,053 consumers 84360 8724913920 WebSocket connection accepted for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,054 consumers 84360 8724913920 Starting FFmpeg process for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,057 consumers 84360 8724913920 FFmpeg process started for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+WARNING 2025-05-17 04:17:04,857 consumers 84360 8724913920 No frame data received for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,857 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,864 consumers 84360 8724913920 Disconnecting from stream e86ac7d8-1615-4e79-baa9-722e8ea20252 with code: 1006
+INFO 2025-05-17 04:17:04,865 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,866 consumers 84360 8724913920 Attempting to connect to stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,871 consumers 84360 8724913920 WebSocket connection accepted for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,872 consumers 84360 8724913920 Starting FFmpeg process for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:04,876 consumers 84360 8724913920 FFmpeg process started for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+WARNING 2025-05-17 04:17:05,531 consumers 84360 8724913920 No frame data received for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:05,531 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+INFO 2025-05-17 04:17:05,534 consumers 84360 8724913920 Disconnecting from stream e86ac7d8-1615-4e79-baa9-722e8ea20252 with code: 1000
+INFO 2025-05-17 04:17:05,534 consumers 84360 8724913920 Stream process terminated for stream: e86ac7d8-1615-4e79-baa9-722e8ea20252
+WARNING 2025-05-17 04:18:12,432 log 84360 6194786304 Bad Request: /api/streams/
+WARNING 2025-05-17 04:18:18,713 log 84360 6194786304 Bad Request: /api/streams/
+WARNING 2025-05-17 04:18:18,741 log 84360 13338013696 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-05-17 04:18:18,741 log 84360 13321187328 Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+WARNING 2025-05-17 04:18:18,741 log 84360 6194786304 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-05-17 04:18:18,742 log 84360 13321187328 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-05-17 04:18:18,742 log 84360 13304360960 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-05-17 04:18:18,745 log 84360 13338013696 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-05-17 04:18:18,757 log 84360 6194786304 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-05-17 04:18:18,757 log 84360 13304360960 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-05-17 04:18:18,757 log 84360 13321187328 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-05-17 04:18:18,758 log 84360 6194786304 Not Found: /static/rest_framework/js/load-ajax-form.js
+WARNING 2025-05-17 04:18:18,758 log 84360 13338013696 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-05-17 04:18:19,056 log 84360 13304360960 Not Found: /favicon.ico
+WARNING 2025-05-17 04:18:23,175 log 84360 6194786304 Bad Request: /api/streams/
+WARNING 2025-05-17 04:18:23,210 log 84360 13338013696 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-05-17 04:18:23,214 log 84360 13304360960 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-05-17 04:18:23,216 log 84360 6194786304 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-05-17 04:18:23,217 log 84360 13338013696 Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+WARNING 2025-05-17 04:18:23,218 log 84360 13304360960 Not Found: /static/rest_framework/js/load-ajax-form.js
+WARNING 2025-05-17 04:18:23,218 log 84360 6194786304 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-05-17 04:18:23,230 log 84360 6194786304 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-05-17 04:18:23,233 log 84360 13304360960 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-05-17 04:18:23,234 log 84360 13338013696 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-05-17 04:18:23,234 log 84360 13304360960 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-05-17 04:18:23,235 log 84360 6194786304 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-05-17 04:18:23,564 log 84360 6194786304 Not Found: /favicon.ico
+WARNING 2025-05-17 04:18:27,536 log 84360 13304360960 Bad Request: /api/streams/
+WARNING 2025-05-17 04:18:27,570 log 84360 13321187328 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-05-17 04:18:27,570 log 84360 13304360960 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-05-17 04:18:27,570 log 84360 13338013696 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-05-17 04:18:27,570 log 84360 13321187328 Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+WARNING 2025-05-17 04:18:27,570 log 84360 6194786304 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-05-17 04:18:27,572 log 84360 13354840064 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-05-17 04:18:27,588 log 84360 13304360960 Not Found: /static/rest_framework/js/prettify-min.js
+WARNING 2025-05-17 04:18:27,588 log 84360 13338013696 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-05-17 04:18:27,588 log 84360 13354840064 Not Found: /static/rest_framework/js/load-ajax-form.js
+WARNING 2025-05-17 04:18:27,588 log 84360 6194786304 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-05-17 04:18:27,588 log 84360 13304360960 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-05-17 04:18:56,700 log 84360 13338013696 Not Found: /static/rest_framework/css/bootstrap.min.css
+WARNING 2025-05-17 04:18:56,701 log 84360 13304360960 Not Found: /static/rest_framework/css/default.css
+WARNING 2025-05-17 04:18:56,701 log 84360 13354840064 Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+WARNING 2025-05-17 04:18:56,701 log 84360 13338013696 Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+WARNING 2025-05-17 04:18:56,701 log 84360 13371666432 Not Found: /static/rest_framework/css/prettify.css
+WARNING 2025-05-17 04:18:56,701 log 84360 13321187328 Not Found: /static/rest_framework/js/ajax-form.js
+WARNING 2025-05-17 04:18:56,718 log 84360 13354840064 Not Found: /static/rest_framework/js/csrf.js
+WARNING 2025-05-17 04:18:56,719 log 84360 13338013696 Not Found: /static/rest_framework/js/bootstrap.min.js
+WARNING 2025-05-17 04:18:56,719 log 84360 13371666432 Not Found: /static/rest_framework/js/load-ajax-form.js
+WARNING 2025-05-17 04:18:56,719 log 84360 13304360960 Not Found: /static/rest_framework/js/default.js
+WARNING 2025-05-17 04:18:56,720 log 84360 13321187328 Not Found: /static/rest_framework/js/prettify-min.js
+INFO 2025-05-17 04:19:06,594 consumers 84360 8724913920 Attempting to connect to stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:06,596 consumers 84360 8724913920 WebSocket connection accepted for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:06,597 consumers 84360 8724913920 Starting FFmpeg process for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:06,600 consumers 84360 8724913920 FFmpeg process started for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+WARNING 2025-05-17 04:19:07,413 consumers 84360 8724913920 No frame data received for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,414 consumers 84360 8724913920 Stream process terminated for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,419 consumers 84360 8724913920 Disconnecting from stream 6ac82572-11df-4db6-9692-d509ea3d4ed4 with code: 1006
+INFO 2025-05-17 04:19:07,420 consumers 84360 8724913920 Stream process terminated for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,420 consumers 84360 8724913920 Attempting to connect to stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,424 consumers 84360 8724913920 WebSocket connection accepted for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,425 consumers 84360 8724913920 Starting FFmpeg process for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:07,429 consumers 84360 8724913920 FFmpeg process started for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+WARNING 2025-05-17 04:19:08,250 consumers 84360 8724913920 No frame data received for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:08,251 consumers 84360 8724913920 Stream process terminated for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:19:08,253 consumers 84360 8724913920 Disconnecting from stream 6ac82572-11df-4db6-9692-d509ea3d4ed4 with code: 1000
+INFO 2025-05-17 04:19:08,254 consumers 84360 8724913920 Stream process terminated for stream: 6ac82572-11df-4db6-9692-d509ea3d4ed4
+INFO 2025-05-17 04:20:11,511 consumers 84360 8724913920 Attempting to connect to stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:11,514 consumers 84360 8724913920 WebSocket connection accepted for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:11,515 consumers 84360 8724913920 Starting FFmpeg process for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:11,519 consumers 84360 8724913920 FFmpeg process started for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+WARNING 2025-05-17 04:20:12,267 consumers 84360 8724913920 No frame data received for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,268 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,273 consumers 84360 8724913920 Disconnecting from stream 9b0d22f4-3e06-4893-936a-fd7ac75a7f94 with code: 1006
+INFO 2025-05-17 04:20:12,274 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,276 consumers 84360 8724913920 Attempting to connect to stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,281 consumers 84360 8724913920 WebSocket connection accepted for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,283 consumers 84360 8724913920 Starting FFmpeg process for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:12,289 consumers 84360 8724913920 FFmpeg process started for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+WARNING 2025-05-17 04:20:13,125 consumers 84360 8724913920 No frame data received for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:13,125 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:13,129 consumers 84360 8724913920 Disconnecting from stream 9b0d22f4-3e06-4893-936a-fd7ac75a7f94 with code: 1000
+INFO 2025-05-17 04:20:13,130 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:20:59,318 consumers 84360 8724913920 Attempting to connect to stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:20:59,322 consumers 84360 8724913920 WebSocket connection accepted for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:20:59,323 consumers 84360 8724913920 Starting FFmpeg process for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:20:59,329 consumers 84360 8724913920 FFmpeg process started for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+WARNING 2025-05-17 04:21:00,001 consumers 84360 8724913920 No frame data received for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,001 consumers 84360 8724913920 Stream process terminated for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,007 consumers 84360 8724913920 Disconnecting from stream c1c493a3-185a-4776-be35-d002c0e3c3c6 with code: 1006
+INFO 2025-05-17 04:21:00,009 consumers 84360 8724913920 Stream process terminated for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,010 consumers 84360 8724913920 Attempting to connect to stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,013 consumers 84360 8724913920 WebSocket connection accepted for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,014 consumers 84360 8724913920 Starting FFmpeg process for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,018 consumers 84360 8724913920 FFmpeg process started for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+WARNING 2025-05-17 04:21:00,606 consumers 84360 8724913920 No frame data received for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,607 consumers 84360 8724913920 Stream process terminated for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,615 consumers 84360 8724913920 Disconnecting from stream c1c493a3-185a-4776-be35-d002c0e3c3c6 with code: 1000
+INFO 2025-05-17 04:21:00,616 consumers 84360 8724913920 Stream process terminated for stream: c1c493a3-185a-4776-be35-d002c0e3c3c6
+INFO 2025-05-17 04:21:00,617 consumers 84360 8724913920 Attempting to connect to stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:00,618 consumers 84360 8724913920 Attempting to connect to stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:00,622 consumers 84360 8724913920 WebSocket connection accepted for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:00,623 consumers 84360 8724913920 WebSocket connection accepted for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:00,624 consumers 84360 8724913920 Starting FFmpeg process for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:00,628 consumers 84360 8724913920 FFmpeg process started for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+WARNING 2025-05-17 04:21:01,384 consumers 84360 8724913920 No frame data received for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:01,385 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:01,387 consumers 84360 8724913920 Starting FFmpeg process for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:01,392 consumers 84360 8724913920 FFmpeg process started for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+WARNING 2025-05-17 04:21:02,262 consumers 84360 8724913920 No frame data received for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:02,263 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:02,272 consumers 84360 8724913920 Disconnecting from stream 9b0d22f4-3e06-4893-936a-fd7ac75a7f94 with code: 1006
+INFO 2025-05-17 04:21:02,273 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:02,274 consumers 84360 8724913920 Disconnecting from stream 9b0d22f4-3e06-4893-936a-fd7ac75a7f94 with code: 1000
+INFO 2025-05-17 04:21:02,274 consumers 84360 8724913920 Stream process terminated for stream: 9b0d22f4-3e06-4893-936a-fd7ac75a7f94
+INFO 2025-05-17 04:21:02,275 consumers 84360 8724913920 Attempting to connect to stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,277 consumers 84360 8724913920 Attempting to connect to stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,284 consumers 84360 8724913920 WebSocket connection accepted for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,285 consumers 84360 8724913920 WebSocket connection accepted for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,286 consumers 84360 8724913920 Starting FFmpeg process for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,291 consumers 84360 8724913920 FFmpeg process started for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+WARNING 2025-05-17 04:21:02,916 consumers 84360 8724913920 No frame data received for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,917 consumers 84360 8724913920 Stream process terminated for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,918 consumers 84360 8724913920 Starting FFmpeg process for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:02,926 consumers 84360 8724913920 FFmpeg process started for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+WARNING 2025-05-17 04:21:03,755 consumers 84360 8724913920 No frame data received for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:03,755 consumers 84360 8724913920 Stream process terminated for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:03,768 consumers 84360 8724913920 Disconnecting from stream a1c0fc08-92e8-4e14-9194-0e20d86a2009 with code: 1006
+INFO 2025-05-17 04:21:03,770 consumers 84360 8724913920 Stream process terminated for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:03,771 consumers 84360 8724913920 Disconnecting from stream a1c0fc08-92e8-4e14-9194-0e20d86a2009 with code: 1000
+INFO 2025-05-17 04:21:03,772 consumers 84360 8724913920 Attempting to connect to stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:03,772 consumers 84360 8724913920 Attempting to connect to stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:03,774 consumers 84360 8724913920 Stream process terminated for stream: a1c0fc08-92e8-4e14-9194-0e20d86a2009
+INFO 2025-05-17 04:21:03,780 consumers 84360 8724913920 WebSocket connection accepted for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:03,781 consumers 84360 8724913920 WebSocket connection accepted for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:03,783 consumers 84360 8724913920 Starting FFmpeg process for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:03,788 consumers 84360 8724913920 FFmpeg process started for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+WARNING 2025-05-17 04:21:04,651 consumers 84360 8724913920 No frame data received for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:04,652 consumers 84360 8724913920 Stream process terminated for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:04,654 consumers 84360 8724913920 Starting FFmpeg process for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:04,661 consumers 84360 8724913920 FFmpeg process started for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+WARNING 2025-05-17 04:21:05,279 consumers 84360 8724913920 No frame data received for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:05,280 consumers 84360 8724913920 Stream process terminated for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:05,285 consumers 84360 8724913920 Disconnecting from stream a8f383fc-c052-48c2-8f63-5f3933ab309f with code: 1006
+INFO 2025-05-17 04:21:05,286 consumers 84360 8724913920 Disconnecting from stream a8f383fc-c052-48c2-8f63-5f3933ab309f with code: 1000
+INFO 2025-05-17 04:21:05,287 consumers 84360 8724913920 Stream process terminated for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:05,287 consumers 84360 8724913920 Stream process terminated for stream: a8f383fc-c052-48c2-8f63-5f3933ab309f
+INFO 2025-05-17 04:21:19,296 consumers 84360 8724913920 Attempting to connect to stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:19,299 consumers 84360 8724913920 WebSocket connection accepted for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:19,300 consumers 84360 8724913920 Starting FFmpeg process for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:19,303 consumers 84360 8724913920 FFmpeg process started for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+WARNING 2025-05-17 04:21:19,997 consumers 84360 8724913920 No frame data received for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:19,997 consumers 84360 8724913920 Stream process terminated for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,004 consumers 84360 8724913920 Disconnecting from stream 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4 with code: 1006
+INFO 2025-05-17 04:21:20,005 consumers 84360 8724913920 Stream process terminated for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,006 consumers 84360 8724913920 Attempting to connect to stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,011 consumers 84360 8724913920 WebSocket connection accepted for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,012 consumers 84360 8724913920 Starting FFmpeg process for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,017 consumers 84360 8724913920 FFmpeg process started for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+WARNING 2025-05-17 04:21:20,782 consumers 84360 8724913920 No frame data received for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,782 consumers 84360 8724913920 Stream process terminated for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
+INFO 2025-05-17 04:21:20,785 consumers 84360 8724913920 Disconnecting from stream 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4 with code: 1000
+INFO 2025-05-17 04:21:20,786 consumers 84360 8724913920 Stream process terminated for stream: 0e7a8cc5-d7dd-4fd8-9070-848726c49ed4
